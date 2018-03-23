@@ -1,0 +1,6 @@
+sudo npm i -g babel-cli /* es6, es7 */
+sudo npm i -g nodemon /* watch files and refresh server */
+npm ini --yes
+npm i --save express mongoose express-session body-parser morgan
+npm i --save-dev babel-cli babel-core babel-preset-es2015 babel-preset-stage-0 babel-preset-stage-1 babel-preset-stage-2 babel-preset-stage-3
+// npm i --save-dev babel-preset-env
